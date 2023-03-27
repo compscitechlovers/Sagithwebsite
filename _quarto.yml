@@ -10,12 +10,13 @@ website:
         text: Home
       - about.qmd
       - project.qmd
-      - href: SagithKalaichelvam_Resume.pdf
-        text: Resume
+      - text: Resume
+        url: /SagithKalaichelvam_Resume.pdf
+
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
