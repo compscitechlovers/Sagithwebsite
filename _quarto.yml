@@ -10,8 +10,8 @@ website:
         text: Home
       - about.qmd
       - project.qmd
-      - text: Resume
-        url: /SagithKalaichelvam_Resume.pdf
+      - href: resume.pdf
+        text: Resume
 
 
 format:
