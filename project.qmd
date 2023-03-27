@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+Completed Projects
+
+Design
+
+[ UXL Designathon ](https://www.figma.com/proto/NR4TF7kJ1eLUTWXeN8vnUr/UXL-Designathon-2023---Team-88-Prototype?page-id=70%3A1251&node-id=70-1259&starting-point-node-id=70%3A1259)
+
+Paper
+
+[ The Post-2007 Declining U.S. Birth Rates imply Significant Societal Shift in the U.S. ](https://github.com/UtopianYoungChung/Paper2.git)

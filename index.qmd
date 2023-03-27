@@ -1,0 +1,5 @@
+---
+title: "Welcome to my site"
+---
+
+I am a current 3rd year student at University of Toronto studying Information Studies focusing on UX/UI Design & Research.

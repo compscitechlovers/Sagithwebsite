@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sagith's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - project.qmd
+      - href: SagithKalaichelvam_Resume.pdf
+        text: Resume
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
